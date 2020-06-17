@@ -83,7 +83,7 @@ const routes = [
 
 会相应生成：
 
-![](./assets/store_api.png)
+![](./assets/api_store.png)
 
 
 目前只是个暂时满足了我的简单需求的小玩具，还有很多 bug，希望以后记得可以继续完善(感觉是个 flag)。
